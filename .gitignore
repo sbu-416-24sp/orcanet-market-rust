@@ -1,5 +1,1 @@
-target
-
-*.pb.go
-
-.DS_Store
+/target
